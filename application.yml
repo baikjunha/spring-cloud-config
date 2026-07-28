@@ -1,1 +1,6 @@
-# 공통 기본 설정 (모든 서비스에 적용)
+# 공통 설정 — 모든 서비스(user-service, apigateway-service 등)가 공유
+token:
+  expiration-time: 86400000
+  secret: assessment1-jwt-secret-key-baikjunha-2026-0728-spring-cloud
+gateway:
+  ip: 127.0.0.1
