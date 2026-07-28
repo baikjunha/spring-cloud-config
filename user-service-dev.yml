@@ -1,0 +1,7 @@
+# dev 프로파일 전용 — user-service.yml(기본)보다 우선한다
+message:
+  greeting: Hello Spring Cloud Bus (dev profile)
+
+company:
+  name: NJONE Company
+  ceo: Hong Gil Dong

@@ -1,0 +1,3 @@
+# Bonus: Order Service 에도 Config Server 적용
+message:
+  greeting: Hello Order Service from Config Server
